@@ -1,0 +1,17 @@
+# Coffee-Shop-Sales-Report
+
+Problem Statment :-
+1. Total Sales Analysis :
+- Calculate the total sales for each respective month
+- Determine the month by month increase or decrease in sales
+- Calculate the difference in sales between the selected month and the previous month
+
+2. Total Order Analysis :
+- Calculate the total numer of orders for each respectve month
+- Determine the month on month increase or decrease in the number of orders
+- Calculate the difference in the number of orders between the selcted month and the previous month
+
+3. Total Quantity Sold Analysis :
+- Calcualte the total quantity sold for each respective month
+- Determine the month on month increase or decrease in the total quantity sold
+- Calculate the difference in total quantity sold between the selected month and the previous month
